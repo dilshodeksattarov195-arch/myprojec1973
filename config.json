@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authferify",
+        "uuid": 11522320,
+        "checksum": "6b1swp"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
